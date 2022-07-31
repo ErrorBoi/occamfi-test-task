@@ -19,7 +19,7 @@
 - Output average price to standard output
 
 ## Features
-- App has Graceful Shutdown
+- Graceful Shutdown
 - Race detector
 - Linter (golangci-lint)
 
