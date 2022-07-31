@@ -5,8 +5,8 @@ You are given an API interface of some service for streaming data, which is the 
 
 You need to develop an algorithm which uses these data streams as input and as output providing an online “index price” in the form of minute bars, where the bar is a pair (timestamp, price). Output can be provided in any form (file, console, etc.). An example output if the service is working for ~2 minutes would look like:
 
-Timestamp, IndexPrice
-1577836800, 100.1
+Timestamp, IndexPrice\
+1577836800, 100.1\
 1577836860, 102
 
 ## Requirements:
